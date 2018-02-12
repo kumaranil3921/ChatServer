@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "simple chat server",
   "main": "server.js",
-  "start" : "node server.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "node server.js",
+    "start": "node server.js"
   },
   "author": "anil",
   "license": "ISC",
