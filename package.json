@@ -1,0 +1,14 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "simple chat server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "anil",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
